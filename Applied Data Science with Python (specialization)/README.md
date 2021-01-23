@@ -1,3 +1,5 @@
+![umich_logo](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera_assets/xdp/umich.svg?auto=format%2Ccompress&dpr=1&h=70)
+
 ## [Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python)
 The 5 courses in this University of Michigan specialization introduce learners to data science through the python programming language. This skills-based specialization is intended for learners who have a basic python or programming background, and want to apply statistical, machine learning, information visualization, text analysis, and social network analysis techniques through popular python toolkits such as pandas, matplotlib, scikit-learn, nltk, and networkx to gain insight into their data.
   
