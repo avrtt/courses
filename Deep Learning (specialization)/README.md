@@ -1,5 +1,3 @@
-![deeplearningai_logo](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/b5/0b9e20362811e9943eb13d2c9e2d78/LongLogoWhite688x192.png?auto=format%2Ccompress&dpr=1&h=70)
-
 ## [Deep Learning](https://www.coursera.org/specializations/deep-learning)
 If you want to break into AI, this Specialization will help you do so. Deep Learning is one of the most highly sought after skills in tech. We will help you become good at Deep Learning. 
   
