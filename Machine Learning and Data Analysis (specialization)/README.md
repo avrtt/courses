@@ -1,5 +1,5 @@
-## [Машинное обучение и анализ данных](https://www.coursera.org/specializations/machine-learning-data-analysis)
-This specialization is taught in Russian. For more details, see the specialization page on Coursera.
+## [Машинное обучение и анализ данных]
+This specialization is taught in Russian. For more details, see the [specialization page](https://www.coursera.org/specializations/machine-learning-data-analysis) on Coursera.
   
 ### Contents:
 #### [1. Математика и Python для анализа данных](https://www.coursera.org/learn/mathematics-and-python?specialization=machine-learning-data-analysis)
