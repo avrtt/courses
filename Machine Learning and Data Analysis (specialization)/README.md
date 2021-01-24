@@ -1,3 +1,5 @@
+![mipt_logo](https://mipt.ru/upload/medialibrary/c60/eng_text.png)
+  
 ## Машинное обучение и анализ данных
 This specialization is taught in Russian. For more details, see the [specialization page](https://www.coursera.org/specializations/machine-learning-data-analysis) on Coursera.
   
