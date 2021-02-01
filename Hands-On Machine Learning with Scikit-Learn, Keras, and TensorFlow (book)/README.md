@@ -2,7 +2,7 @@
 
 Here are my solutions to tasks from the book [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd Edition)](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/).
   
-The author's repository is [here](https://github.com/ageron/handson-ml).
+The author's repository is [here](https://github.com/ageron/handson-ml2).
 
 ### Description:
 Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning. Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data. This practical book shows you how.
