@@ -1,6 +1,6 @@
 ![cover](https://learning.oreilly.com/library/cover/9781491912126/250w/)
 
-Here are my solutions to tasks from the book [Python Data Science Handbook: Essential Tools for Working with Data (1st Edition)](hhttps://www.oreilly.com/library/view/python-data-science/9781491912126/).
+Here are my solutions to tasks from the book [Python Data Science Handbook: Essential Tools for Working with Data (1st Edition](https://www.oreilly.com/library/view/python-data-science/9781491912126/).
   
 The author's repository is [here](https://github.com/jakevdp/PythonDataScienceHandbook).
 
