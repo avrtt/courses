@@ -9,7 +9,7 @@ These free mini-courses on the basics of Data Science are provided by the [Kaggl
 - [Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning)
 - [Computer Vision](https://www.kaggle.com/learn/computer-vision)
 - [Machine Learning Explainability](https://www.kaggle.com/learn/machine-learning-explainability)
-- [](https://www.kaggle.com/learn/natural-language-processing)
+- [Natural Language Processing](https://www.kaggle.com/learn/natural-language-processing)
 - [Intro to Game AI and Reinforcement Learning](https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning)
 - [Intro to SQL](https://www.kaggle.com/learn/intro-to-sql)
 - [Advanced SQL](https://www.kaggle.com/learn/advanced-sql)
