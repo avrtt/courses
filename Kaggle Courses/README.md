@@ -3,7 +3,7 @@ These free mini-courses on the basics of Data Science are provided by the [Kaggl
 | COURSE | CERTIFICATE |
 |--------|-------------|
 | [Pandas](https://www.kaggle.com/learn/pandas) | [Link](https://www.kaggle.com/learn/certification/lenferdetroud/pandas) |
-| [Data Cleaning](https://www.kaggle.com/learn/data-cleaning) | [Link] |
+| [Data Cleaning](https://www.kaggle.com/learn/data-cleaning) | [Link](https://www.kaggle.com/learn/certification/lenferdetroud/data-cleaning) |
 | [Data Visualization](https://www.kaggle.com/learn/data-visualization) | [Link] |
 | [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning) | [Link] |
 | [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning) | [Link] |
