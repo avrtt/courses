@@ -37,3 +37,9 @@ This repository contains my solutions for programming assignments from online co
 |31| [mlcourse.ai](https://mlcourse.ai/) | [Folder](https://github.com/Lenferdetroud/courses/tree/main/Open%20Data%20Science:%20ML%20(course)) |  | Course (ODS.ai) |  |
 |32| Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow | Folder |  | Book | 2nd Edition |
 |33| SQL in 10 Minutes a Day, Sams Teach Yourself | Folder |  | Book | 5th Edition |
+|34| [Mathematics for Machine Learning](https://www.amazon.com/Mathematics-Machine-Learning-Peter-Deisenroth/dp/110845514X) |  |  | Book | 1st Edition |
+|35| [Data Science from Scratch: First Principles with Python](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X) |  |  | Book | 1st Edition |
+|36| [Python Data Science Handbook: Essential Tools for Working with Data](https://www.amazon.com/Python-Data-Science-Handbook-Essential/dp/1491912057) |  |  | Book | 1st Edition |
+|37| [Deep Learning with Python](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438) |  |  | Book | 1st Edition |
+|38| [Deep Learning (Adaptive Computation and Machine Learning series)](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618) |  |  | Book | Illustrated Edition |
+|39| [SQL Cookbook](https://www.amazon.com/SQL-Cookbook-Query-Solutions-Techniques/dp/1492077445) |  |  | Book | 2nd Edition |
