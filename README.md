@@ -24,19 +24,19 @@ This repository contains my solutions for programming assignments from online co
 |18| How to Win a Data Science Competition: Learn from Top Kagglers | Folder | Link | Course ([Coursera](https://coursera.org/)) | Single Course |
 |19| [Pandas](https://www.kaggle.com/learn/pandas) | [Folder](https://github.com/Lenferdetroud/courses/tree/main/Kaggle%20Courses/Pandas) | [Link](https://www.kaggle.com/learn/certification/lenferdetroud/pandas) | Course ([Kaggle](https://www.kaggle.com/)) |  |
 |20| [Data Cleaning](https://www.kaggle.com/learn/data-cleaning) | [Folder](https://github.com/Lenferdetroud/courses/tree/main/Kaggle%20Courses/Data%20Cleaning) | [Link](https://www.kaggle.com/learn/certification/lenferdetroud/data-cleaning) | Course ([Kaggle](https://www.kaggle.com/)) |  |
-|21| [Data Visualization](https://www.kaggle.com/learn/data-visualization) | Folder | Link | Course ([Kaggle](https://www.kaggle.com/)) |  |
-|22| [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning) | Folder | Link | Course ([Kaggle](https://www.kaggle.com/)) |  |
-|23| [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning) | Folder | Link | Course ([Kaggle](https://www.kaggle.com/)) |  |
-|24| [Feature Engineering](https://www.kaggle.com/learn/feature-engineering) | Folder | Link | Course ([Kaggle](https://www.kaggle.com/)) |  |
-|25| [Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning) | Folder | Link | Course ([Kaggle](https://www.kaggle.com/)) |  |
-|26| [Computer Vision](https://www.kaggle.com/learn/computer-vision) | Folder | Link | Course ([Kaggle](https://www.kaggle.com/)) |  |
-|27| [Natural Language Processing](https://www.kaggle.com/learn/natural-language-processing) | Folder | Link | Course ([Kaggle](https://www.kaggle.com/)) |  |
-|28| [Intro to Game AI and Reinforcement Learning](https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning) | Folder | Link | Course ([Kaggle](https://www.kaggle.com/)) |  |
-|29| [Intro to SQL](https://www.kaggle.com/learn/intro-to-sql) | Folder | Link | Course ([Kaggle](https://www.kaggle.com/)) |  |
-|30| [Advanced SQL](https://www.kaggle.com/learn/advanced-sql) | Folder | Link | Course ([Kaggle](https://www.kaggle.com/)) |  |
+|21| [Data Visualization](https://www.kaggle.com/learn/data-visualization) | [Folder](https://github.com/Lenferdetroud/courses/tree/main/Kaggle%20Courses/Data%20Visualization) | Link | Course ([Kaggle](https://www.kaggle.com/)) |  |
+|22| [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning) | [Folder](https://github.com/Lenferdetroud/courses/tree/main/Kaggle%20Courses/Intro%20to%20Machine%20Learning) | Link | Course ([Kaggle](https://www.kaggle.com/)) |  |
+|23| [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning) | [Folder](https://github.com/Lenferdetroud/courses/tree/main/Kaggle%20Courses/Intermediate%20Machine%20Learning) | Link | Course ([Kaggle](https://www.kaggle.com/)) |  |
+|24| [Feature Engineering](https://www.kaggle.com/learn/feature-engineering) | [Folder](https://github.com/Lenferdetroud/courses/tree/main/Kaggle%20Courses/Feature%20Engineering) | Link | Course ([Kaggle](https://www.kaggle.com/)) |  |
+|25| [Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning) | [Folder](https://github.com/Lenferdetroud/courses/tree/main/Kaggle%20Courses/Intro%20to%20Deep%20Learning) | Link | Course ([Kaggle](https://www.kaggle.com/)) |  |
+|26| [Computer Vision](https://www.kaggle.com/learn/computer-vision) | [Folder](https://github.com/Lenferdetroud/courses/tree/main/Kaggle%20Courses/Computer%20Vision) | Link | Course ([Kaggle](https://www.kaggle.com/)) |  |
+|27| [Natural Language Processing](https://www.kaggle.com/learn/natural-language-processing) | [Folder](https://github.com/Lenferdetroud/courses/tree/main/Kaggle%20Courses/Natural%20Language%20Processing) | Link | Course ([Kaggle](https://www.kaggle.com/)) |  |
+|28| [Intro to Game AI and Reinforcement Learning](https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning) | [Folder](https://github.com/Lenferdetroud/courses/tree/main/Kaggle%20Courses/Intro%20to%20Game%20AI%20and%20Reinforcement%20Learning) | Link | Course ([Kaggle](https://www.kaggle.com/)) |  |
+|29| [Intro to SQL](https://www.kaggle.com/learn/intro-to-sql) | [Folder](https://github.com/Lenferdetroud/courses/tree/main/Kaggle%20Courses/Intro%20to%20SQL) | Link | Course ([Kaggle](https://www.kaggle.com/)) |  |
+|30| [Advanced SQL](https://www.kaggle.com/learn/advanced-sql) | [Folder](https://github.com/Lenferdetroud/courses/tree/main/Kaggle%20Courses/Advanced%20SQL) | Link | Course ([Kaggle](https://www.kaggle.com/)) |  |
 |31| [mlcourse.ai](https://mlcourse.ai/) | [Folder](https://github.com/Lenferdetroud/courses/tree/main/Open%20Data%20Science:%20ML%20(course)) |  | Course ([ODS.ai](https://ods.ai/)) |  |
-|32| Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow | Folder |  | Book | 2nd Edition |
-|33| SQL in 10 Minutes a Day, Sams Teach Yourself | Folder |  | Book | 5th Edition |
+|32| [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646) | [Folder](https://github.com/Lenferdetroud/courses/tree/main/Hands-On%20Machine%20Learning%20with%20Scikit-Learn%2C%20Keras%2C%20and%20TensorFlow%20(book)) |  | Book | 2nd Edition |
+|33| [SQL in 10 Minutes a Day, Sams Teach Yourself](https://www.amazon.com/SQL-Minutes-Sams-Teach-Yourself/dp/0135182794) | [Folder](https://github.com/Lenferdetroud/courses/tree/main/SQL%20in%2010%20Minutes%20a%20Day%2C%20Sams%20Teach%20Yourself%20(book)) |  | Book | 5th Edition |
 |34| [Mathematics for Machine Learning](https://www.amazon.com/Mathematics-Machine-Learning-Peter-Deisenroth/dp/110845514X) |  |  | Book | 1st Edition |
 |35| [Data Science from Scratch: First Principles with Python](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X) |  |  | Book | 1st Edition |
 |36| [Python Data Science Handbook: Essential Tools for Working with Data](https://www.amazon.com/Python-Data-Science-Handbook-Essential/dp/1491912057) |  |  | Book | 1st Edition |
