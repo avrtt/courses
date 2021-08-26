@@ -31,13 +31,12 @@ This repository contains my solutions for programming assignments from online co
 |25| [Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning) | [Folder](https://github.com/Lenferdetroud/courses/tree/main/Kaggle%20Courses/Intro%20to%20Deep%20Learning) | Link | Course ([Kaggle](https://www.kaggle.com/)) |  |
 |26| [Computer Vision](https://www.kaggle.com/learn/computer-vision) | [Folder](https://github.com/Lenferdetroud/courses/tree/main/Kaggle%20Courses/Computer%20Vision) | Link | Course ([Kaggle](https://www.kaggle.com/)) |  |
 |27| [Natural Language Processing](https://www.kaggle.com/learn/natural-language-processing) | [Folder](https://github.com/Lenferdetroud/courses/tree/main/Kaggle%20Courses/Natural%20Language%20Processing) | Link | Course ([Kaggle](https://www.kaggle.com/)) |  |
-|28| [Intro to Game AI and Reinforcement Learning](https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning) | [Folder](https://github.com/Lenferdetroud/courses/tree/main/Kaggle%20Courses/Intro%20to%20Game%20AI%20and%20Reinforcement%20Learning) | Link | Course ([Kaggle](https://www.kaggle.com/)) |  |
-|29| [mlcourse.ai](https://mlcourse.ai/) | [Folder](https://github.com/Lenferdetroud/courses/tree/main/Open%20Data%20Science:%20ML%20(course)) |  | Course ([ODS.ai](https://ods.ai/)) |  |
-|30| [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646) | [Folder](https://github.com/Lenferdetroud/courses/tree/main/Hands-On%20Machine%20Learning%20with%20Scikit-Learn%2C%20Keras%2C%20and%20TensorFlow%20(book)) |  | Book | 2nd Edition |
-|31| [SQL in 10 Minutes a Day, Sams Teach Yourself](https://www.amazon.com/SQL-Minutes-Sams-Teach-Yourself/dp/0135182794) | [Folder](https://github.com/Lenferdetroud/courses/tree/main/SQL%20in%2010%20Minutes%20a%20Day%2C%20Sams%20Teach%20Yourself%20(book)) |  | Book | 5th Edition |
-|32| [Mathematics for Machine Learning](https://www.amazon.com/Mathematics-Machine-Learning-Peter-Deisenroth/dp/110845514X) |  |  | Book | 1st Edition |
-|33| [Data Science from Scratch: First Principles with Python](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X) |  |  | Book | 1st Edition |
-|34| [Python Data Science Handbook: Essential Tools for Working with Data](https://www.amazon.com/Python-Data-Science-Handbook-Essential/dp/1491912057) |  |  | Book | 1st Edition |
-|35| [Deep Learning with Python](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438) |  |  | Book | 1st Edition |
-|36| [Deep Learning (Adaptive Computation and Machine Learning series)](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618) |  |  | Book | Illustrated Edition |
-|37| [SQL Cookbook](https://www.amazon.com/SQL-Cookbook-Query-Solutions-Techniques/dp/1492077445) |  |  | Book | 2nd Edition |
+|28| [mlcourse.ai](https://mlcourse.ai/) | [Folder](https://github.com/Lenferdetroud/courses/tree/main/Open%20Data%20Science:%20ML%20(course)) |  | Course ([ODS.ai](https://ods.ai/)) |  |
+|29| [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646) | [Folder](https://github.com/Lenferdetroud/courses/tree/main/Hands-On%20Machine%20Learning%20with%20Scikit-Learn%2C%20Keras%2C%20and%20TensorFlow%20(book)) |  | Book | 2nd Edition |
+|30| [SQL in 10 Minutes a Day, Sams Teach Yourself](https://www.amazon.com/SQL-Minutes-Sams-Teach-Yourself/dp/0135182794) |  |  | Book | 5th Edition |
+|31| [Mathematics for Machine Learning](https://www.amazon.com/Mathematics-Machine-Learning-Peter-Deisenroth/dp/110845514X) |  |  | Book | 1st Edition |
+|32| [Data Science from Scratch: First Principles with Python](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X) |  |  | Book | 1st Edition |
+|33| [Python Data Science Handbook: Essential Tools for Working with Data](https://www.amazon.com/Python-Data-Science-Handbook-Essential/dp/1491912057) |  |  | Book | 1st Edition |
+|34| [Deep Learning with Python](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438) |  |  | Book | 1st Edition |
+|35| [Deep Learning (Adaptive Computation and Machine Learning series)](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618) |  |  | Book | Illustrated Edition |
+|36| [SQL Cookbook](https://www.amazon.com/SQL-Cookbook-Query-Solutions-Techniques/dp/1492077445) |  |  | Book | 2nd Edition |
