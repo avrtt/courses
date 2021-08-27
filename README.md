@@ -32,7 +32,7 @@ This repository contains my solutions for programming assignments from online co
 |26| [Computer Vision](https://www.kaggle.com/learn/computer-vision) | [Folder](https://github.com/Lenferdetroud/courses/tree/main/Kaggle%20Courses/Computer%20Vision) | Link | Course ([Kaggle](https://www.kaggle.com/)) |  |
 |27| [Natural Language Processing](https://www.kaggle.com/learn/natural-language-processing) | [Folder](https://github.com/Lenferdetroud/courses/tree/main/Kaggle%20Courses/Natural%20Language%20Processing) | Link | Course ([Kaggle](https://www.kaggle.com/)) |  |
 |28| [mlcourse.ai](https://mlcourse.ai/) | [Folder](https://github.com/Lenferdetroud/courses/tree/main/Open%20Data%20Science:%20ML%20(course)) |  | Course ([ODS.ai](https://ods.ai/)) |  |
-|29| [sql-ex.ru](https://www.sql-ex.ru/) |  |  | Course |  |
+|29| [sql-ex.ru](https://www.sql-ex.ru/) |  |  | Course | DML + SELECT |
 |30| [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646) | [Folder](https://github.com/Lenferdetroud/courses/tree/main/Hands-On%20Machine%20Learning%20with%20Scikit-Learn%2C%20Keras%2C%20and%20TensorFlow%20(book)) |  | Book | 2nd Edition |
 |31| [SQL in 10 Minutes a Day, Sams Teach Yourself](https://www.amazon.com/SQL-Minutes-Sams-Teach-Yourself/dp/0135182794) |  |  | Book | 5th Edition |
 |32| [Mathematics for Machine Learning](https://www.amazon.com/Mathematics-Machine-Learning-Peter-Deisenroth/dp/110845514X) |  |  | Book | 1st Edition |
