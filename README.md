@@ -40,3 +40,4 @@ This repository contains my solutions for programming assignments from online co
 |34| [Deep Learning with Python](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438) |  |  | Book | 1st Edition |
 |35| [Deep Learning (Adaptive Computation and Machine Learning series)](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618) |  |  | Book | Illustrated Edition |
 |36| [SQL Cookbook](https://www.amazon.com/SQL-Cookbook-Query-Solutions-Techniques/dp/1492077445) |  |  | Book | 2nd Edition |
+|37| [sql-ex.ru](https://www.sql-ex.ru/) |  |  | Course |  |
