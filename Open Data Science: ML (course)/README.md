@@ -1,4 +1,0 @@
-## Open Data Science: ML
-[mlcourse.ai](https://mlcourse.ai/) is an open Machine Learning course by [OpenDataScience (ods.ai)](https://ods.ai/), lead by [Yury Kashnitsky (Yorko)](https://yorko.github.io/). Having both a Ph.D. degree in applied math and a Kaggle Competitions Master tier, Yury aimed at designing a ML course with a perfect balance between theory and practice. Thus, you go through math formulae in lectures, and practice with Kaggle Inclass competitions. Currently, the course is in a self-paced mode. Check out a thorough [Roadmap](https://mlcourse.ai/roadmap) guiding you through the self-paced mlcourse.ai.  
-  
-*Note: all mlcourse.ai materials are distributed under the [Creative Commons CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. Free use is permitted for any non-commercial purpose provided that you mention the licensor (i.e. mlcourse.ai).*
