@@ -31,8 +31,8 @@ This repository contains my solutions for programming assignments from online co
 |25| [Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning) | [Folder](https://github.com/Lenferdetroud/courses/tree/main/Kaggle%20Courses/Intro%20to%20Deep%20Learning) | [Link](https://www.kaggle.com/learn/certification/lenferdetroud/intro-to-deep-learning) | Course ([Kaggle](https://www.kaggle.com/)) |  |
 |26| [Computer Vision](https://www.kaggle.com/learn/computer-vision) | [Folder](https://github.com/Lenferdetroud/courses/tree/main/Kaggle%20Courses/Computer%20Vision) | [Link](https://www.kaggle.com/learn/certification/lenferdetroud/computer-vision) | Course ([Kaggle](https://www.kaggle.com/)) |  |
 |27| [Natural Language Processing](https://www.kaggle.com/learn/natural-language-processing) | [Folder](https://github.com/Lenferdetroud/courses/tree/main/Kaggle%20Courses/Natural%20Language%20Processing) | [Link](https://www.kaggle.com/learn/certification/lenferdetroud/natural-language-processing) | Course ([Kaggle](https://www.kaggle.com/)) |  |
-|28| [sql-ex.ru](https://www.sql-ex.ru/) (SELECT) |  |  | Course |  |
-|29| [sql-ex.ru](https://www.sql-ex.ru/) (DML) |  |  | Course |  |
+|28| [sql-ex.ru (SELECT)](https://www.sql-ex.ru/) | [File](https://github.com/lenferdetroud/learning-notes/blob/main/postgres_select_statement.sql) |  | Course |  |
+|29| [sql-ex.ru (DML)](https://www.sql-ex.ru/) | [File](https://github.com/lenferdetroud/learning-notes/blob/main/sql_data_modification.sql) |  | Course |  |
 |30| [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646) | [Folder](https://github.com/Lenferdetroud/courses/tree/main/Hands-On%20Machine%20Learning%20with%20Scikit-Learn%2C%20Keras%2C%20and%20TensorFlow%20(book)) |  | Book | 2nd Edition |
 |31| [SQL in 10 Minutes a Day, Sams Teach Yourself](https://www.amazon.com/SQL-Minutes-Sams-Teach-Yourself/dp/0135182794) |  |  | Book | 5th Edition |
 |32| [Mathematics for Machine Learning](https://www.amazon.com/Mathematics-Machine-Learning-Peter-Deisenroth/dp/110845514X) |  |  | Book | 1st Edition |
