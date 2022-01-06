@@ -4,7 +4,7 @@ Find the model number, speed and hard drive capacity for all the PCs with prices
 <br>
 
 ### Exercise 2 
-List all printer makers.  
+List all printer manufacturers.  
 <br>
 
 
