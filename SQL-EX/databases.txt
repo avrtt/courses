@@ -65,7 +65,8 @@ the number stands for the row, while the letter (a – d) defines the seat posit
 5. Painting
 The database schema consists of 3 tables:
 utQ (Q_ID int, Q_NAME varchar(35)), utV (V_ID int, V_NAME varchar(35), V_COLOR char(1)), utB (B_DATETIME datetime, B_Q_ID int, B_V_ID int, B_VOL tinyint).
-The utQ table contains the identifiers and names of squares, the initial color of which is black. (Note: black is not a color and is considered unpainted. Only Red, Green and Blue are colors.)
+The utQ table contains the identifiers and names of squares, the initial color of which is black. 
+(Note: black is not a color and is considered unpainted. Only Red, Green and Blue are colors.)
 The utV table contains the identifiers and names of spray cans and the color of paint they are filled with.
 The utB table holds information on squares being spray-painted, and contains the time of the painting event, the square and spray can identifiers, the quantity of paint being applied.
 It should be noted that
